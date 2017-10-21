@@ -1,0 +1,51 @@
+#navHeader{
+    background: deepskyblue;
+
+}
+#navHeader a{
+    color: white;
+}
+#navHeader a:hover{
+    color: gray;
+}
+#navHeader ul{
+    background: deepskyblue;
+
+}
+#navBrand{
+    font-size: 20px;
+}
+#loginHeader{
+    text-align: center;
+    color: red;
+    font-size: 32px;
+    margin: 30px;
+}
+#registerHeader{
+    text-align: center;
+    color: red;
+    font-size: 32px;
+    margin: 30px;
+}
+#footer{
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background: deepskyblue;
+    color: white;
+}
+#image{
+    display: none ;
+}
+#student_con{
+    margin-bottom: 50px;
+}
+#student_detail{
+    margin-bottom: 50px;
+    text-align: center;
+}
+#student_detail table{
+    text-align: left;
+    background: white;
+    color: blue;
+}
